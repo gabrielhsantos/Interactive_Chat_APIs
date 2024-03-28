@@ -1,0 +1,20 @@
+{
+  "name": "interactive_chat_apis",
+  "version": "1.0.0",
+  "description": "APIs RESTful para cadastro de clientes e interação com o ChatGPT, desenvolvidas em Node.js, utilizando MongoDB como banco de dados NoSQL e Docker para containerização.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielhsantos/Interactive_Chat_APIs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielhsantos/Interactive_Chat_APIs/issues"
+  },
+  "homepage": "https://github.com/gabrielhsantos/Interactive_Chat_APIs#readme"
+}
